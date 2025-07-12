@@ -31,7 +31,7 @@ The backend database manages all user, service, and payment data while supportin
 ## 🧱 Core Features
 
 - ✅ Fully normalized schema (**up to BCNF**)
-- ✅ 20+ relational tables with primary and foreign keys
+- ✅ 15+ relational tables with primary and foreign keys
 - ✅ Composite keys for complex relationships
 - ✅ Support for cascading updates and deletes
 - ✅ Structured bill and service management
